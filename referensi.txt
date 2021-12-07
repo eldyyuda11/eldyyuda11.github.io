@@ -1,5 +1,0 @@
-https://getbootstrap.com/docs/4.4/examples/jumbotron/
-https://www.jqueryscript.net/menu/active-menu-scrollspy.html
-https://www.jqueryscript.net/menu/One-Page-Scroll-Navigation-Bar-jQuery.html
-https://www.jqueryscript.net/menu/active-menu-scrollspy.html
-https://jqueryui.com/tabs
